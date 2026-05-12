@@ -1,0 +1,19 @@
+﻿<Window x:Class="Pantry_To_Plate.windows.MahlzeitHinzufügenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pantry_To_Plate.windows"
+        mc:Ignorable="d"
+        Title="MahlzeitHinzufügenWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="49,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" TextChanged="TextBox_TextChanged"/>
+        <ListBox HorizontalAlignment="Left" Height="317" Margin="49,84,0,0" VerticalAlignment="Top" Width="269" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="63" Margin="356,180,0,0" VerticalAlignment="Top" Width="164"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="63" Margin="356,264,0,0" VerticalAlignment="Top" Width="164"/>
+        <TextBox HorizontalAlignment="Left" Height="82" Margin="356,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
+        <Label Content="menge in gramm:" HorizontalAlignment="Left" Height="27" Margin="356,52,0,0" VerticalAlignment="Top" Width="148"/>
+        <Label Content="Lebensmittel suchen:" HorizontalAlignment="Left" Height="27" Margin="62,10,0,0" VerticalAlignment="Top" Width="133"/>
+
+    </Grid>
+</Window>
