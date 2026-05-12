@@ -38,7 +38,9 @@ namespace Pantry_To_Plate
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-
+            MahlzeitHinzufügenWindow mahlzeitHinzufügenWindow = new MahlzeitHinzufügenWindow();
+            mahlzeitHinzufügenWindow.Owner = this;
+            mahlzeitHinzufügenWindow.ShowDialog();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
