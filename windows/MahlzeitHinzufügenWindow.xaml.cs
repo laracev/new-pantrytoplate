@@ -1,17 +1,19 @@
-﻿using System;
+﻿using Pantry_To_Plate.mods;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
-using System.Text;
-
+using Pantry_To_Plate.mods;
+using System.Globalization;
 namespace Pantry_To_Plate.windows
 {
     public partial class MahlzeitHinzufügenWindow : Window
     {
-        List<string> foods = new List<string>();
+        List<FoodItems> foods = new List<FoodItems>();
 
         public MahlzeitHinzufügenWindow()
         {
@@ -21,7 +23,7 @@ namespace Pantry_To_Plate.windows
 
         void LoadCsv()
         {
-            string path = @"data/test_utf8.csv";
+            string path = @"data/Lebensmittel.csv";
 
             if (!File.Exists(path))
             {
@@ -39,79 +41,116 @@ namespace Pantry_To_Plate.windows
                 if (parts.Length > 0 &&
                     !string.IsNullOrWhiteSpace(parts[0]))
                 {
-                    foods.Add(parts[0]);
+                   
+                    foods.Add(new FoodItems
+                    {
+                        //ki start: promt: WTF IST FALSCH ICH NIX CHECKEN DIESE BITTE RETTE MICH AUS DEM VERDAMMEN
+                        Name = parts[0],
+                        Ballast = parts.Length > 1 ? parts[1] : "",
+                        Calories = parts.Length > 2 && double.TryParse(parts[2], NumberStyles.Any, CultureInfo.InvariantCulture, out double calories) ? calories : 0,
+                        Protein = parts.Length > 3 && double.TryParse(parts[3], NumberStyles.Any, CultureInfo.InvariantCulture, out double protein) ? protein : 0,
+                        Carbs = parts.Length > 4 && double.TryParse(parts[4], NumberStyles.Any, CultureInfo.InvariantCulture, out double carbs) ? carbs : 0,
+                        Fat = parts.Length > 5 && double.TryParse(parts[5], NumberStyles.Any, CultureInfo.InvariantCulture, out double fat) ? fat : 0
+
+                        //ki ende
+                    });
                 }
             }
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            string input = TxtBoxLebensmittelHinzufügen.Text
-                .ToLower()
-                .Trim();
+            string input = TxtBoxLebensmittelHinzufügen.Text.ToLower().Trim();
+
+            ListBoxSuchergebnisse.Items.Clear();
+            Btn_LebensMittelHinzufuegen.Content = "";
+
 
             if (string.IsNullOrWhiteSpace(input))
             {
-                Btn_LebensMittelHinzufuegen.Content = "";
                 return;
             }
 
-
-            //Ki START CHATGPT
-            //Promt: Ich habe eine List<string> foods und einen Input-String.
-            //Schreibe mir eine Suchlogik, die zuerst prüft, ob ein Eintrag mit dem Input beginnt, dann ob ein einzelnes Wort im Eintrag mit dem
-            //Input beginnt und zuletzt ob der Input irgendwo im String enthalten ist.
-            //Es soll nur der erste Treffer verwendet werden.
-            string match = null;
-
-            
-            match = foods.FirstOrDefault(f =>
-                f.ToLower().StartsWith(input));
-
-            
-            if (match == null)
+            foreach (FoodItems food in foods)
             {
-                match = foods.FirstOrDefault(f =>
-                    f.ToLower()
-                     .Split(' ')
-                     .Any(w => w.StartsWith(input)));
+                string name = food.Name.ToLower();
+
+                if (name.StartsWith(input) ||
+                    name.Split(' ').Any(word => word.StartsWith(input)) ||
+                    name.Contains(input))
+                {
+                    ListBoxSuchergebnisse.Items.Add(food.Name);
+                }
+
+                if (ListBoxSuchergebnisse.Items.Count >= 10)
+                {
+                    break;
+                }
             }
 
-           
-            if (match == null)
-            {
-                match = foods.FirstOrDefault(f =>
-                    f.ToLower().Contains(input));
-            }
-
-            if (match != null)
-            {
-                Btn_LebensMittelHinzufuegen.Content = match;
-            }
-            else
+            if (ListBoxSuchergebnisse.Items.Count == 0)
             {
                 Btn_LebensMittelHinzufuegen.Content = "Kein Treffer";
             }
-            //KI ENDE
         }
 
         private void Btn_LebensMittelHinzufuegen_Click(object sender, RoutedEventArgs e)
         {
-            string food =
-                Btn_LebensMittelHinzufuegen.Content.ToString();
-
-            if (food != "Kein Treffer" &&
-                !string.IsNullOrWhiteSpace(food))
+            if (Btn_LebensMittelHinzufuegen.Content == null)
             {
-                
-                if (!ListBoxLebensmittel.Items.Contains(food))
-                {
-                    ListBoxLebensmittel.Items.Add(food);
-                }
+                return;
+            }
 
-                TxtBoxLebensmittelHinzufügen.Clear();
+            string foodName = Btn_LebensMittelHinzufuegen.Content.ToString();
 
-                Btn_LebensMittelHinzufuegen.Content = "";
+            if (foodName == "Kein Treffer" || string.IsNullOrWhiteSpace(foodName))
+            {
+                return;
+            }
+
+            if (!double.TryParse(TxtBoxMenge.Text, NumberStyles.Any, CultureInfo.InvariantCulture, out double amountGram))
+            {
+                MessageBox.Show("Bitte eine gültige Menge eingeben.");
+                return;
+            }
+
+            FoodItems selectedFood = foods.FirstOrDefault(f => f.Name == foodName);
+
+            if (selectedFood == null)
+            {
+                MessageBox.Show("Lebensmittel wurde nicht gefunden.");
+                return;
+            }
+
+            double factor = amountGram / 100.0;
+
+            DailyEntry entry = new DailyEntry
+            {
+                FoodName = selectedFood.Name,
+                AmountGram = amountGram,
+                Calories = selectedFood.Calories * factor,
+                Protein = selectedFood.Protein * factor,
+                Carbs = selectedFood.Carbs * factor,
+                Fat = selectedFood.Fat * factor
+            };
+
+            DailyEntryService.Add(entry);
+
+            if (!ListBoxLebensmittel.Items.Contains(foodName))
+            {
+                ListBoxLebensmittel.Items.Add($"{foodName} - {amountGram} g");
+            }
+
+            TxtBoxLebensmittelHinzufügen.Clear();
+            TxtBoxMenge.Clear();
+            ListBoxSuchergebnisse.Items.Clear();
+            Btn_LebensMittelHinzufuegen.Content = "";
+        }
+        private void ListBoxSuchergebnisse_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (ListBoxSuchergebnisse.SelectedItem != null)
+            {
+                Btn_LebensMittelHinzufuegen.Content = ListBoxSuchergebnisse.SelectedItem.ToString();
             }
         }
     }

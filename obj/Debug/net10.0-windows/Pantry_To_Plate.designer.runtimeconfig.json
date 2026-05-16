@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Noel Heinzle\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Noel Heinzle\\.nuget\\packages",
+      "C:\\Users\\cevik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cevik\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

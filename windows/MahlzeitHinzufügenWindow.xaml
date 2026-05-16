@@ -11,12 +11,13 @@
         <ListBox Name="ListBoxLebensmittel" HorizontalAlignment="Left" Height="317" Margin="49,84,0,0" VerticalAlignment="Top" Width="269" d:ItemsSource="{d:SampleData ItemCount=5}"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="63" Margin="356,180,0,0" VerticalAlignment="Top" Width="164"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="63" Margin="356,264,0,0" VerticalAlignment="Top" Width="164"/>
-        <TextBox HorizontalAlignment="Left" Height="82" Margin="356,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
+        <TextBox Name="TxtBoxMenge" HorizontalAlignment="Left" Height="82" Margin="356,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
         <Label Content="menge in gramm:" HorizontalAlignment="Left" Height="27" Margin="356,52,0,0" VerticalAlignment="Top" Width="148"/>
         <Label Content="Lebensmittel suchen:" HorizontalAlignment="Left" Height="27" Margin="62,10,0,0" VerticalAlignment="Top" Width="133"/>
         <Button Name="Btn_LebensMittelHinzufuegen" Content="" HorizontalAlignment="Left" Margin="587,54,0,0" VerticalAlignment="Top" Height="57" Width="142" Click="Btn_LebensMittelHinzufuegen_Click"/>
         <Label Content="Lebensmittel Hinzufügen" HorizontalAlignment="Left" Margin="587,125,0,0" VerticalAlignment="Top" Width="142"/>
-       
+        <ListBox Name="ListBoxSuchergebnisse" Margin="533,180,17,52" SelectionChanged="ListBoxSuchergebnisse_SelectionChanged" />
+
 
     </Grid>
 </Window>

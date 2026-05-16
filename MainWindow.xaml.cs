@@ -2,25 +2,30 @@
 using Pantry_To_Plate.windows;
 using System.Windows;
 
+
 namespace Pantry_To_Plate
 {
     public partial class MainWindow : Window
     {
-        private userinfo user;
-
-        public MainWindow()
+        //ki start: promt: wie mach ich am besten das es die werte immer aktuell sind?
+        private void UpdateDailyValues()
         {
-            InitializeComponent();
-            user = UserDataService.Load();
+            var entries = DailyEntryService.LoadToday();
 
-            try { KalorienzielText.Content = $"Kalorienziel: {user.Kalorienziel:F0} kcal"; }
-                
-            
-            catch
-            {
-                KalorienzielText.Content = "Kalorienziel: 0 kcal";
-            }
+            double eatenCalories = entries.Sum(e => e.Calories);
+            double eatenProtein = entries.Sum(e => e.Protein);
+            double eatenCarbs = entries.Sum(e => e.Carbs);
+            double eatenFat = entries.Sum(e => e.Fat);
+
+            double remainingCalories = user.Kalorienziel - eatenCalories;
+
+            KalorienzielText.Content =
+                $"Kalorienziel: {user.Kalorienziel:F0} kcal\n" +
+                $"Gegessen: {eatenCalories:F0} kcal\n" +
+                $"Übrig: {remainingCalories:F0} kcal";
         }
+
+        //KI ende
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             EinstellungenWindow einstellungenWindow = new EinstellungenWindow(user);
@@ -36,11 +41,34 @@ namespace Pantry_To_Plate
             }
         }
 
+        private userinfo user;
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            user = UserDataService.Load();
+
+            try { KalorienzielText.Content = $"Kalorienziel: {user.Kalorienziel:F0} kcal"; }
+                
+            
+            catch
+            {
+                KalorienzielText.Content = "Kalorienziel: 0 kcal";
+            }
+
+
+            UpdateDailyValues();
+
+
+        }
+
+
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             MahlzeitHinzufügenWindow mahlzeitHinzufügenWindow = new MahlzeitHinzufügenWindow();
             mahlzeitHinzufügenWindow.Owner = this;
             mahlzeitHinzufügenWindow.ShowDialog();
+            UpdateDailyValues();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)

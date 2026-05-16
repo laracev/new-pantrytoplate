@@ -1,61 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\",
+  "WorkspaceRootPath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\mahlzeithinzuf\u00FCgenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\mahlzeithinzuf\u00FCgenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\mahlzeithinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\mahlzeithinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\data\\lebensmittel.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:data\\lebensmittel.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\data\\met_werte_tabelle.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:data\\met_werte_tabelle.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\pantrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\pantrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\pantrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\mahlzeithinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\mahlzeithinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\mahlzeithinzuf\u00FCgenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\mahlzeithinzuf\u00FCgenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\einstellungenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\data\\lebensmittel.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:data\\lebensmittel.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\data\\met_werte_tabelle.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:data\\met_werte_tabelle.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\einstellungenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\einstellungenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\windowrezepte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\windowrezepte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\windowrezepte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\einstellungenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\einstellungenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\einstellungenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\mods\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\source\\repos\\new-pantrytoplate\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -66,17 +86,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
               "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
               "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAqwDsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T12:32:48.432Z",
               "IsPinned": true,
@@ -84,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
               "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
               "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-12T09:05:41.149Z",
@@ -98,130 +118,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MET_Werte_Tabelle.csv",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\data\\MET_Werte_Tabelle.csv",
-              "RelativeDocumentMoniker": "data\\MET_Werte_Tabelle.csv",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\data\\MET_Werte_Tabelle.csv",
-              "RelativeToolTip": "data\\MET_Werte_Tabelle.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-12T13:55:22.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lebensmittel.CSV",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\data\\Lebensmittel.CSV",
-              "RelativeDocumentMoniker": "data\\Lebensmittel.CSV",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\data\\Lebensmittel.CSV",
-              "RelativeToolTip": "data\\Lebensmittel.CSV",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-12T13:03:45.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDataService.cs",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\UserDataService.cs",
-              "RelativeDocumentMoniker": "UserDataService.cs",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\UserDataService.cs",
-              "RelativeToolTip": "UserDataService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:33:07.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EinstellungenWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\EinstellungenWindow.xaml.cs",
-              "RelativeDocumentMoniker": "windows\\EinstellungenWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\EinstellungenWindow.xaml.cs",
-              "RelativeToolTip": "windows\\EinstellungenWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:07:34.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WindowRezepte.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\WindowRezepte.xaml",
-              "RelativeDocumentMoniker": "windows\\WindowRezepte.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\WindowRezepte.xaml",
-              "RelativeToolTip": "windows\\WindowRezepte.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:05:43.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwCkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:04:47.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:04:48.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EinstellungenWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\EinstellungenWindow.xaml",
-              "RelativeDocumentMoniker": "windows\\EinstellungenWindow.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\EinstellungenWindow.xaml",
-              "RelativeToolTip": "windows\\EinstellungenWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:05:34.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "userinfo.cs",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\mods\\userinfo.cs",
-              "RelativeDocumentMoniker": "mods\\userinfo.cs",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\mods\\userinfo.cs",
-              "RelativeToolTip": "mods\\userinfo.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:16:40.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:08:16.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "PantryWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\PantryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\PantryWindow.xaml",
               "RelativeDocumentMoniker": "windows\\PantryWindow.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\PantryWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\PantryWindow.xaml",
               "RelativeToolTip": "windows\\PantryWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-12T09:05:42.255Z",
@@ -229,11 +129,198 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DailyEntry.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
+              "RelativeDocumentMoniker": "mods\\DailyEntry.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
+              "RelativeToolTip": "mods\\DailyEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:13:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
+              "RelativeDocumentMoniker": "mods\\DailyEntryService.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
+              "RelativeToolTip": "mods\\DailyEntryService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:22:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fitnessactivity.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
+              "RelativeDocumentMoniker": "mods\\fitnessactivity.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
+              "RelativeToolTip": "mods\\fitnessactivity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:30:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T09:04:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataService.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserDataService.cs",
+              "RelativeDocumentMoniker": "UserDataService.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserDataService.cs",
+              "RelativeToolTip": "UserDataService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:33:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:04:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MET_Werte_Tabelle.csv",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
+              "RelativeDocumentMoniker": "data\\MET_Werte_Tabelle.csv",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
+              "RelativeToolTip": "data\\MET_Werte_Tabelle.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T13:55:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\AppLogger.cs",
+              "RelativeDocumentMoniker": "mods\\AppLogger.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\AppLogger.cs",
+              "RelativeToolTip": "mods\\AppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:13:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lebensmittel.CSV",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
+              "RelativeDocumentMoniker": "data\\Lebensmittel.CSV",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
+              "RelativeToolTip": "data\\Lebensmittel.CSV",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T13:03:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodItems.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
+              "RelativeDocumentMoniker": "mods\\FoodItems.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
+              "RelativeToolTip": "mods\\FoodItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:13:09.042Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "EinstellungenWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\EinstellungenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "windows\\EinstellungenWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\EinstellungenWindow.xaml.cs",
+              "RelativeToolTip": "windows\\EinstellungenWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:07:34.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WindowRezepte.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\WindowRezepte.xaml",
+              "RelativeDocumentMoniker": "windows\\WindowRezepte.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\WindowRezepte.xaml",
+              "RelativeToolTip": "windows\\WindowRezepte.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T09:05:43.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EinstellungenWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\EinstellungenWindow.xaml",
+              "RelativeDocumentMoniker": "windows\\EinstellungenWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\EinstellungenWindow.xaml",
+              "RelativeToolTip": "windows\\EinstellungenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T09:05:34.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userinfo.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\userinfo.cs",
+              "RelativeDocumentMoniker": "mods\\userinfo.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\userinfo.cs",
+              "RelativeToolTip": "mods\\userinfo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:16:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T09:08:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
               "RelativeDocumentMoniker": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "ToolTip": "C:\\Users\\Noel Heinzle\\source\\repos\\new-pantrytoplate\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
               "RelativeToolTip": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-12T09:05:38.842Z"

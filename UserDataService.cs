@@ -30,7 +30,7 @@ namespace Pantry_To_Plate
 
             string json = File.ReadAllText(filePath);
 
-            return JsonSerializer.Deserialize<userinfo>(json) ?? new userinfo();
+            return JsonSerializer.Deserialize<userinfo>(json) ?? new userinfo(); 
         }
     }
 }
