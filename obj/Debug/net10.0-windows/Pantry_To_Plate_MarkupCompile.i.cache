@@ -11,10 +11,10 @@ false
 TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\cevik\Documents\PTP 2.0\App.xaml
 6883070961
-2447335953
+3148145956
 21-1781400516
 2061601768811
 MainWindow.xaml;windows\EinstellungenWindow.xaml;windows\fitnessaktivitäthinzufügenwindow.xaml;windows\MahlzeitHinzufügenWindow.xaml;windows\PantryWindow.xaml;windows\WindowRezepte.xaml;
 
-False
+True
 

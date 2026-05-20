@@ -10,12 +10,16 @@
 
   <ItemGroup>
     <None Remove="data\Lebensmittel.CSV" />
+    <None Remove="data\MET_Werte_Tabelle.csv" />
     <None Remove="data\test_utf8 - Kopieren.csv" />
     <None Remove="data\test_utf8.csv" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="data\Lebensmittel.CSV">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\MET_Werte_Tabelle.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="data\test_utf8 - Kopieren.csv">
