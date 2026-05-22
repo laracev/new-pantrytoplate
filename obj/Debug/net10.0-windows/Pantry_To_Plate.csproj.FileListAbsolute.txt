@@ -68,8 +68,6 @@ C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\EinstellungenWindow.g.cs
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\fitnessaktivitäthinzufügenwindow.g.cs
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\MahlzeitHinzufügenWindow.g.cs
-C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\PantryWindow.g.cs
-C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\WindowRezepte.g.cs
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate_MarkupCompile.cache
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate_MarkupCompile.lref
@@ -77,8 +75,6 @@ C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\EinstellungenWindow.baml
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\fitnessaktivitäthinzufügenwindow.baml
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\MahlzeitHinzufügenWindow.baml
-C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\PantryWindow.baml
-C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\windows\WindowRezepte.baml
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate.g.resources
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate.AssemblyInfoInputs.cache
@@ -94,3 +90,6 @@ C:\Users\cevik\Documents\PTP 2.0\bin\Debug\net10.0-windows\data\Lebensmittel.CSV
 C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\Pantry_To_Plate_Content.g.cs
 C:\Users\cevik\Documents\PTP 2.0\bin\Debug\net10.0-windows\data\test_utf8 - Kopieren.csv
 C:\Users\cevik\Documents\PTP 2.0\bin\Debug\net10.0-windows\data\MET_Werte_Tabelle.csv
+C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\UserControls\ProgressBarUsercontrol.g.cs
+C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\UserControls\ProgressBarUsercontrol.baml
+C:\Users\cevik\Documents\PTP 2.0\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs

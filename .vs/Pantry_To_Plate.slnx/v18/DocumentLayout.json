@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\usercontrolkcalzielbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:usercontrolkcalzielbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\usercontrolkcalzielbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:usercontrolkcalzielbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -19,36 +55,12 @@
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\mahlzeithinzuf\u00FCgenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\screenshot 2026-05-07 134630.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:screenshot 2026-05-07 134630.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\data\\fitnesseintraege.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:data\\fitnesseintraege.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\dailyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\data\\met_werte_tabelle.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -65,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\cevik\\documents\\ptp 2.0\\mods\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,43 +106,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "RelativeDocumentMoniker": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "RelativeToolTip": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-20T08:20:34.781Z",
+              "DocumentIndex": 1,
+              "Title": "UserControlKcalZielBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserControlKcalZielBar.xaml.cs",
+              "RelativeDocumentMoniker": "UserControlKcalZielBar.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserControlKcalZielBar.xaml.cs",
+              "RelativeToolTip": "UserControlKcalZielBar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:16:53.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
-              "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "DocumentIndex": 0,
+              "Title": "UserControlKcalZielBar.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserControlKcalZielBar.xaml",
+              "RelativeDocumentMoniker": "UserControlKcalZielBar.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserControlKcalZielBar.xaml",
+              "RelativeToolTip": "UserControlKcalZielBar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-20T08:20:22.625Z",
+              "WhenOpened": "2026-05-20T10:13:30.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T08:18:08.008Z"
+              "WhenOpened": "2026-05-12T09:04:47.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T09:04:48.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyEntry.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
+              "RelativeDocumentMoniker": "mods\\DailyEntry.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
+              "RelativeToolTip": "mods\\DailyEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:13:04.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "DailyEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
+              "RelativeDocumentMoniker": "mods\\DailyEntryService.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
+              "RelativeToolTip": "mods\\DailyEntryService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:22:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fitnessactivity.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
+              "RelativeDocumentMoniker": "mods\\fitnessactivity.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
+              "RelativeToolTip": "mods\\fitnessactivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:30:54.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserDataService.cs",
               "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\UserDataService.cs",
               "RelativeDocumentMoniker": "UserDataService.cs",
@@ -147,150 +203,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FitnessEintraege.csv",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\FitnessEintraege.csv",
-              "RelativeDocumentMoniker": "data\\FitnessEintraege.csv",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\FitnessEintraege.csv",
-              "RelativeToolTip": "data\\FitnessEintraege.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-20T08:10:44.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:04:47.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
-              "RelativeDocumentMoniker": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
-              "RelativeToolTip": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAApwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T08:11:46.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Screenshot 2026-05-07 134630.png",
-              "RelativeDocumentMoniker": "Screenshot 2026-05-07 134630.png",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
-              "RelativeToolTip": "Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-20T06:36:28.282Z",
-              "EditorCaption": " - PNG [296x279, 32-Bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:04:48.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DailyEntryService.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
-              "RelativeDocumentMoniker": "mods\\DailyEntryService.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntryService.cs",
-              "RelativeToolTip": "mods\\DailyEntryService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T21:22:56.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "fitnessactivity.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
-              "RelativeDocumentMoniker": "mods\\fitnessactivity.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\fitnessactivity.cs",
-              "RelativeToolTip": "mods\\fitnessactivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T21:30:54.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DailyEntry.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
-              "RelativeDocumentMoniker": "mods\\DailyEntry.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\DailyEntry.cs",
-              "RelativeToolTip": "mods\\DailyEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:13:04.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MET_Werte_Tabelle.csv",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
-              "RelativeDocumentMoniker": "data\\MET_Werte_Tabelle.csv",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
-              "RelativeToolTip": "data\\MET_Werte_Tabelle.csv",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-12T13:55:22.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Lebensmittel.CSV",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
-              "RelativeDocumentMoniker": "data\\Lebensmittel.CSV",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
-              "RelativeToolTip": "data\\Lebensmittel.CSV",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-12T13:03:45.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "test_utf8 - Kopieren.csv",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\test_utf8 - Kopieren.csv",
-              "RelativeDocumentMoniker": "data\\test_utf8 - Kopieren.csv",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\test_utf8 - Kopieren.csv",
-              "RelativeToolTip": "data\\test_utf8 - Kopieren.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-05-20T07:39:13.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FoodItems.cs",
-              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
-              "RelativeDocumentMoniker": "mods\\FoodItems.cs",
-              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
-              "RelativeToolTip": "mods\\FoodItems.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:13:09.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -302,7 +214,125 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "RelativeDocumentMoniker": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "RelativeToolTip": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T08:20:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:18:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "RelativeDocumentMoniker": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "RelativeToolTip": "windows\\MahlzeitHinzuf\u00FCgenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T08:20:22.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FitnessEintraege.csv",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\FitnessEintraege.csv",
+              "RelativeDocumentMoniker": "data\\FitnessEintraege.csv",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\FitnessEintraege.csv",
+              "RelativeToolTip": "data\\FitnessEintraege.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-20T08:10:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
+              "RelativeDocumentMoniker": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
+              "RelativeToolTip": "windows\\fitnessaktivit\u00E4thinzuf\u00FCgenwindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:11:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Screenshot 2026-05-07 134630.png",
+              "RelativeDocumentMoniker": "Screenshot 2026-05-07 134630.png",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
+              "RelativeToolTip": "Screenshot 2026-05-07 134630.png - PNG [296x279, 32-Bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-20T06:36:28.282Z",
+              "EditorCaption": " - PNG [296x279, 32-Bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MET_Werte_Tabelle.csv",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
+              "RelativeDocumentMoniker": "data\\MET_Werte_Tabelle.csv",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\MET_Werte_Tabelle.csv",
+              "RelativeToolTip": "data\\MET_Werte_Tabelle.csv",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T13:55:22.677Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Lebensmittel.CSV",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
+              "RelativeDocumentMoniker": "data\\Lebensmittel.CSV",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\Lebensmittel.CSV",
+              "RelativeToolTip": "data\\Lebensmittel.CSV",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T13:03:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "test_utf8 - Kopieren.csv",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\test_utf8 - Kopieren.csv",
+              "RelativeDocumentMoniker": "data\\test_utf8 - Kopieren.csv",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\data\\test_utf8 - Kopieren.csv",
+              "RelativeToolTip": "data\\test_utf8 - Kopieren.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-20T07:39:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodItems.cs",
+              "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
+              "RelativeDocumentMoniker": "mods\\FoodItems.cs",
+              "ToolTip": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\FoodItems.cs",
+              "RelativeToolTip": "mods\\FoodItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:13:09.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AppLogger.cs",
               "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\AppLogger.cs",
               "RelativeDocumentMoniker": "mods\\AppLogger.cs",
@@ -314,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "userinfo.cs",
               "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\mods\\userinfo.cs",
               "RelativeDocumentMoniker": "mods\\userinfo.cs",
@@ -326,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\cevik\\Documents\\PTP 2.0\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",

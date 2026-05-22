@@ -65,7 +65,12 @@ namespace Pantry_To_Plate
             CarbsCounterLabel.Content = $"{eatenCarbs:F0} g";
             FettCounterLabel.Content = $"{eatenFat:F0} g";
 
-            
+            ProteineCounterLabel.Content = $"{eatenProtein:F0} g";
+            CarbsCounterLabel.Content = $"{eatenCarbs:F0} g";
+            FettCounterLabel.Content = $"{eatenFat:F0} g";
+
+            KalorienProgressBar.UpdateBar(netCalories, user.Kalorienziel);
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -89,6 +94,7 @@ namespace Pantry_To_Plate
         {
             InitializeComponent();
             user = UserDataService.Load();
+            
 
             try { KalorienzielText.Content = $"Kalorienziel: {user.Kalorienziel:F0} kcal"; }
                 
