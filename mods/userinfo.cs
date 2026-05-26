@@ -24,6 +24,7 @@ namespace Pantry_To_Plate.mods
 
         public double KcalZielBerechnen(double Weight, double Height, int diätzielChoice, int Genderchoice, double Age)
         {
+            AppLogger.Log("Kalorienberechnung gestartet.");
             double grundumsatz;
 
             if (Genderchoice == 1)
@@ -38,25 +39,31 @@ namespace Pantry_To_Plate.mods
             }
             else
             {
+                AppLogger.LogWarning("Ungültige Geschlechtsauswahl");
                 return 0;
             }
 
             grundumsatz = grundumsatz * palWert;
+            AppLogger.Log($"Grundumsatz berechnet: {grundumsatz}");
 
             if (diätzielChoice == 1)
             {
+                AppLogger.Log("Diätziel: Zunehmen");
                 return grundumsatz + 500;
             }
             else if (diätzielChoice == 2)
             {
+                AppLogger.Log("Diätziel: Gleich Bleiben");
                 return grundumsatz;
             }
             else if (diätzielChoice == 3)
             {
+                AppLogger.Log("Diätziel: Ábnehmen");
                 return grundumsatz - 500;
             }
             else
             {
+                AppLogger.Log("Ungültiges Diätziel");
                 return 0;
             }
         }

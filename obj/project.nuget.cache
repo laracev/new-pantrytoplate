@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALhDCSJpzjU=",
+  "dgSpecHash": "lC6uDPKgLwo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Pantry_To_Plate.csproj",
+  "projectFilePath": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\Pantry_To_Plate.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem beim Lesen der Cachedatei \"C:\\Users\\cevik\\Documents\\PTP 2.0\\obj\\project.nuget.cache\": '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Pantry_To_Plate.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Pantry_To_Plate.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

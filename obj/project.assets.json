@@ -8,23 +8,23 @@
     "net10.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cevik\\.nuget\\packages\\": {},
+    "C:\\Users\\Noel Heinzle\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Pantry_To_Plate.csproj",
+      "projectUniqueName": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\Pantry_To_Plate.csproj",
       "projectName": "Pantry_To_Plate",
-      "projectPath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\Pantry_To_Plate.csproj",
-      "packagesPath": "C:\\Users\\cevik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cevik\\Documents\\PTP 2.0\\obj\\",
+      "projectPath": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\Pantry_To_Plate.csproj",
+      "packagesPath": "C:\\Users\\Noel Heinzle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cevik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Noel Heinzle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -38,7 +38,6 @@
       },
       "frameworks": {
         "net10.0-windows7.0": {
-          "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {}
         }
@@ -57,7 +56,6 @@
     },
     "frameworks": {
       "net10.0-windows7.0": {
-        "framework": "net10.0-windows7.0",
         "targetAlias": "net10.0-windows",
         "imports": [
           "net461",
@@ -78,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -371,13 +369,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem beim Lesen der Cachedatei \"C:\\Users\\cevik\\Documents\\PTP 2.0\\obj\\project.nuget.cache\": '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }

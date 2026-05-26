@@ -17,6 +17,7 @@ namespace Pantry_To_Plate.mods
 
             if (!File.Exists(path))
             {
+                AppLogger.LogWarning("File existiert nicht, Standartfile wird erstellt");
                 CreateExampleRecipes();
             }
 
@@ -29,6 +30,7 @@ namespace Pantry_To_Plate.mods
 
                 if (parts.Length < 4 || string.IsNullOrWhiteSpace(parts[0]))
                 {
+                    AppLogger.Log($"Ungültige Rezeptteile übersprungen");
                     continue;
                 }
 
@@ -39,11 +41,12 @@ namespace Pantry_To_Plate.mods
                     Ingredients = ParseIngredients(parts[2]),
                     Preparation = parts[3].Replace("<br>", Environment.NewLine)
                 };
+                AppLogger.Log($"Retzept geladen: {recipe.Name}");
 
                 recipe.MatchPercent = PantryService.CalculateMatchPercent(recipe);
                 recipes.Add(recipe);
             }
-
+                
             return recipes
                 .OrderByDescending(r => r.MatchPercent)
                 .ThenBy(r => PantryService.CalculateMissingGram(r))
@@ -54,6 +57,7 @@ namespace Pantry_To_Plate.mods
 
         public static void Save(List<Recipe> recipes)
         {
+            AppLogger.Log("Rezepte werden gespeichert");
             Directory.CreateDirectory("data");
             List<string> lines = new List<string>();
             lines.Add("Name;Description;Ingredients;Preparation");
@@ -94,6 +98,7 @@ namespace Pantry_To_Plate.mods
                 double amount;
                 if (!double.TryParse(parts[1].Replace(",", "."), NumberStyles.Any, CultureInfo.InvariantCulture, out amount))
                 {
+                    AppLogger.LogWarning($"Ungültige Mengenangae bei Zutat: {parts[0]}");
                     amount = 0;
                 }
 
@@ -129,6 +134,7 @@ namespace Pantry_To_Plate.mods
 
         private static void CreateExampleRecipes()
         {
+            AppLogger.Log("Basisrezepte werden erstellt");
             List<string> lines = new List<string>();
             lines.Add("Name;Description;Ingredients;Preparation");
             lines.Add("Pasta Tomate;Ein schnelles Standardrezept;Nudeln:120|Tomaten:200|Zwiebel:50;Nudeln kochen.<br>Zwiebel anbraten.<br>Tomaten dazugeben und alles mischen.");

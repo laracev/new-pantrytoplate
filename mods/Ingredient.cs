@@ -11,6 +11,7 @@ namespace Pantry_To_Plate.mods
 
         public override string ToString()
         {
+            AppLogger.Log($"Ingridient hinzugefügt: {FoodName}, Gewicht: {AmountGram:F0}g");
             return $"{FoodName} - {AmountGram:F0} g";
         }
     }

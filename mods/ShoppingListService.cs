@@ -36,6 +36,7 @@ namespace Pantry_To_Plate.mods
                 }
 
                 items.Add(new Ingredient { FoodName = parts[0], AmountGram = amount });
+                
             }
 
             return items;

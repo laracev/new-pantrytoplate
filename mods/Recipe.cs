@@ -25,6 +25,7 @@ namespace Pantry_To_Plate.mods
 
         public DailyEntry ToDailyEntry(List<FoodItems> foods)
         {
+            AppLogger.Log($"Rezept wird verarbeitet {Name}");
             DailyEntry entry = new DailyEntry();
             entry.FoodName = Name;
             entry.AmountGram = Ingredients.Sum(i => i.AmountGram);
@@ -35,6 +36,7 @@ namespace Pantry_To_Plate.mods
 
                 if (food == null)
                 {
+                    AppLogger.LogWarning("Lebensmittel nicht gefunden");
                     continue;
                 }
 
@@ -43,6 +45,8 @@ namespace Pantry_To_Plate.mods
                 entry.Protein += food.Protein * factor;
                 entry.Carbs += food.Carbs * factor;
                 entry.Fat += food.Fat * factor;
+
+                AppLogger.Log($"Zutat verarbeitet {ingredient.FoodName}, {ingredient.AmountGram}g");
             }
 
             return entry;
