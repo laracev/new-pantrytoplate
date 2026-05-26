@@ -9,6 +9,7 @@ namespace Pantry_To_Plate
     /// </summary>
     public partial class App : Application
     {
+
     }
 
 }

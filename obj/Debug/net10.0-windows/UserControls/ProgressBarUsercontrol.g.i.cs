@@ -69,7 +69,7 @@ namespace Pantry_To_Plate.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;V1.0.0.0;component/usercontrols/progressbarusercontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;component/usercontrols/progressbarusercontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UserControls\ProgressBarUsercontrol.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

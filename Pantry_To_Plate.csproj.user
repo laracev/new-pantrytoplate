@@ -5,6 +5,9 @@
     <Compile Update="UserControls\ProgressBarUsercontrol.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\AnimationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\EinkaufslisteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
