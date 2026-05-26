@@ -108,7 +108,7 @@ namespace Pantry_To_Plate.windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;V1.0.0.0;component/windows/rezeptewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;component/windows/rezeptewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\windows\RezepteWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

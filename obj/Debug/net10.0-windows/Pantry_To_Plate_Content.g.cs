@@ -12,5 +12,6 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/met_werte_tabelle.csv")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/rezepte_echt_brauchbar_1200.csv")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/test_utf8%20-%20kopieren.csv")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("screenshot%202026-05-07%20134630.png")]
 
 

@@ -77,8 +77,8 @@ namespace Pantry_To_Plate.windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;V1.0.0.0;component/windows/fitnessaktivit%c3%a4thinzuf%c3%bcgenw" +
-                    "indow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Pantry_To_Plate;component/windows/fitnessaktivit%c3%a4thinzuf%c3%bcgenwindow.xam" +
+                    "l", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\windows\fitnessaktivitäthinzufügenwindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
