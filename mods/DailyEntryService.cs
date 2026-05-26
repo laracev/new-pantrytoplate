@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -27,7 +27,7 @@ namespace Pantry_To_Plate.mods
                 }
 
                 writer.WriteLine(
-                    entry.FoodName + ";" +
+                    Clean(entry.FoodName) + ";" +
                     entry.AmountGram.ToString(CultureInfo.InvariantCulture) + ";" +
                     entry.Calories.ToString(CultureInfo.InvariantCulture) + ";" +
                     entry.Protein.ToString(CultureInfo.InvariantCulture) + ";" +
@@ -35,6 +35,8 @@ namespace Pantry_To_Plate.mods
                     entry.Fat.ToString(CultureInfo.InvariantCulture)
                 );
             }
+
+            AppLogger.Log("Neuer Tages-Eintrag gespeichert.");
         }
 
         public static List<DailyEntry> LoadToday()
@@ -51,23 +53,44 @@ namespace Pantry_To_Plate.mods
 
             foreach (string line in lines)
             {
-                var parts = line.Split(';');
+                string[] parts = line.Split(';');
 
                 if (parts.Length >= 6)
                 {
                     entries.Add(new DailyEntry
                     {
                         FoodName = parts[0],
-                        AmountGram = double.Parse(parts[1], CultureInfo.InvariantCulture),
-                        Calories = double.Parse(parts[2], CultureInfo.InvariantCulture),
-                        Protein = double.Parse(parts[3], CultureInfo.InvariantCulture),
-                        Carbs = double.Parse(parts[4], CultureInfo.InvariantCulture),
-                        Fat = double.Parse(parts[5], CultureInfo.InvariantCulture)
+                        AmountGram = ReadDouble(parts, 1),
+                        Calories = ReadDouble(parts, 2),
+                        Protein = ReadDouble(parts, 3),
+                        Carbs = ReadDouble(parts, 4),
+                        Fat = ReadDouble(parts, 5)
                     });
                 }
             }
 
             return entries;
+        }
+
+        private static double ReadDouble(string[] parts, int index)
+        {
+            double value;
+            if (parts.Length > index && double.TryParse(parts[index].Replace(",", "."), NumberStyles.Any, CultureInfo.InvariantCulture, out value))
+            {
+                return value;
+            }
+
+            return 0;
+        }
+
+        private static string Clean(string value)
+        {
+            if (value == null)
+            {
+                return "";
+            }
+
+            return value.Replace(";", ",").Trim();
         }
     }
 }

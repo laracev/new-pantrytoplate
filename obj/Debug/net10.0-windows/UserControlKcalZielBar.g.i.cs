@@ -50,11 +50,17 @@ namespace Pantry_To_Plate
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD:obj/Debug/net10.0-windows/UserControlKcalZielBar.g.i.cs
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.5.0")]
         public void InitializeComponent()
         {
             if (_contentLoaded)
             {
+=======
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.4.0")]
+        public void InitializeComponent() {
+            if (_contentLoaded) {
+>>>>>>> 1333e43a420b3edd1365b1a97eb5cc0858b1bc1c:obj/Debug/net10.0-windows/windows/WindowRezepte.g.cs
                 return;
             }
             _contentLoaded = true;
@@ -68,7 +74,7 @@ namespace Pantry_To_Plate
         }
 
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.5.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.4.0")]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]

@@ -1,0 +1,9 @@
+26.05.2026 10:07:34: INFORMATION: Pantry aktualisiert: Hafer ganzes Korn, roh, +100 g
+26.05.2026 10:19:02: INFORMATION: Fehlende Zutaten zur Einkaufsliste hinzugefügt.
+26.05.2026 10:20:50: INFORMATION: Pantry aktualisiert: Hühnerei roh, +120 g
+26.05.2026 10:21:00: INFORMATION: Pantry aktualisiert: Gemüsepaprika grün, roh, +100 g
+26.05.2026 11:50:17: INFORMATION: Pantry aktualisiert: Kakaobutter, +100 g
+26.05.2026 11:51:10: INFORMATION: Pantry aktualisiert: Sushi-Reis (Grundrezept), +100 g
+26.05.2026 11:52:01: INFORMATION: Pantry aktualisiert: Salzlakenkäse aus Schafmilch, mind. 45 % Fett i. Tr., +100 g
+26.05.2026 11:52:13: INFORMATION: Fehlende Zutaten zur Einkaufsliste hinzugefügt.
+26.05.2026 12:09:53: WARNING: Lebensmittel.csv wurde nicht gefunden.
