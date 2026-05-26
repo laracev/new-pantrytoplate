@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\animationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\downloads\\projekt1\\mods\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\downloads\\projekt1\\windows\\animationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:windows\\animationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\downloads\\projekt1\\mods\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|solutionrelative:mods\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD51D5-3C59-AF76-F592-9D702EE4F38C}|Pantry_To_Plate.csproj|c:\\users\\noel heinzle\\downloads\\projekt1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,8 +170,7 @@
               "RelativeToolTip": "README_KI_changes.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-26T14:28:42.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T14:28:42.794Z"
             },
             {
               "$type": "Document",
@@ -183,21 +182,19 @@
               "RelativeToolTip": "obj\\Debug\\net10.0-windows\\Pantry_To_Plate.csproj.FileListAbsolute.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-26T14:25:28.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T14:25:28.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AnimationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\windows\\AnimationWindow.xaml.cs",
               "RelativeDocumentMoniker": "windows\\AnimationWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\windows\\AnimationWindow.xaml.cs",
               "RelativeToolTip": "windows\\AnimationWindow.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwDEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T14:16:05.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T14:16:05.544Z"
             },
             {
               "$type": "Document",
@@ -208,8 +205,7 @@
               "ToolTip": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\Screenshot 2026-05-07 134630.png",
               "RelativeToolTip": "Screenshot 2026-05-07 134630.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-26T14:12:59.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T14:12:59.096Z"
             },
             {
               "$type": "Document",
@@ -233,8 +229,7 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T13:38:31.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T13:38:31.939Z"
             },
             {
               "$type": "Document",
@@ -298,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RecipeService.cs",
               "DocumentMoniker": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\mods\\RecipeService.cs",
               "RelativeDocumentMoniker": "mods\\RecipeService.cs",
@@ -306,8 +301,7 @@
               "RelativeToolTip": "mods\\RecipeService.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAQwIgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:12:14.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T08:12:14.094Z"
             },
             {
               "$type": "Document",
@@ -341,8 +335,7 @@
               "ToolTip": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\UserControls\\ProgressBarUsercontrol.xaml",
               "RelativeToolTip": "UserControls\\ProgressBarUsercontrol.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-26T07:23:10.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T07:23:10.512Z"
             },
             {
               "$type": "Document",
@@ -354,8 +347,7 @@
               "RelativeToolTip": "Pantry_To_Plate.csproj",
               "ViewState": "AgIAACEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-26T07:23:10.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T07:23:10.647Z"
             },
             {
               "$type": "Document",
@@ -378,8 +370,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAA3wI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T07:23:10.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T07:23:10.855Z"
             },
             {
               "$type": "Document",
@@ -390,8 +381,7 @@
               "ToolTip": "C:\\Users\\Noel Heinzle\\Downloads\\Projekt1\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-26T07:23:10.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T07:23:10.857Z"
             },
             {
               "$type": "Document",
@@ -497,8 +487,7 @@
               "RelativeToolTip": "UserDataService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAA6wCUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T07:23:10.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T07:23:10.926Z"
             },
             {
               "$type": "Document",
