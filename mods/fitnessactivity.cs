@@ -13,7 +13,9 @@ namespace Pantry_To_Plate.mods
 
         public double CalculateCalories(double weightKg, double durationMinutes)
         {
-            return Met * weightKg * (durationMinutes / 60.0);
+            double calories = Met * weightKg * (durationMinutes / 60.0);
+            AppLogger.Log($"Berechnete Kalorien: {calories}");
+            return calories;
         }
     }
 }

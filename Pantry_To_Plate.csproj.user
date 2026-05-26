@@ -5,5 +5,11 @@
     <Compile Update="UserControls\ProgressBarUsercontrol.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\EinkaufslisteWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\PantryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
