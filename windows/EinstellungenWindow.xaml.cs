@@ -111,5 +111,16 @@ namespace Pantry_To_Plate.windows
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e) { }
         private void ComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e) { }
         private void ComboBox_SelectionChanged_2(object sender, SelectionChangedEventArgs e) { }
+
+        private void BtnEinstellungenZurücksetzen_Click(object sender, RoutedEventArgs e)
+        {
+            diätzielCombo.SelectedIndex = -1;
+            AlltagCombo.SelectedIndex = -1;
+            Geschlechtcombo.SelectedIndex = -1;
+            ageans.Text = "";
+            Gewichteingabe.Text = "";
+            größeeingabe.Text = "";
+            ziel.Text = "";
+        }
     }
 }
